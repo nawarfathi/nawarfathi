@@ -1,4 +1,4 @@
-### Hi there 👋, Hi my name is nawar fathi 
+### Hi there 👋, Hi my name is mahan fathi 
 #### A beginner data analyst from Iran 🇮🇷   Passionate about data, SEO, and building my first real projects.
 I'm an aspiring data analyst learning Python, SQL, Pandas, EDA, and data visualization.  
 I love exploring datasets, finding patterns, and improving my skills through real projects.
