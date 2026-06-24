@@ -1,11 +1,7 @@
 ### Hi there 👋, Hi my name is mahan fathi 
-#### A beginner data analyst from Iran 🇮🇷   Passionate about data, SEO, and building my first real projects.
-I'm an aspiring data analyst learning Python, SQL, Pandas, EDA, and data visualization.  
-I love exploring datasets, finding patterns, and improving my skills through real projects.
 
 Skills: Python/Pandas/Numpy/SQL/powerBI/Seaborn/Matplotlib/EDA/Dataprocessing
-
-- 🔭 I’m currently working on I'm currently working on building real data analysis projects, starting with the Titanic dataset and practicing SQL, Pandas, and EDA techniques. 
+- 🔭 I’m currently working on  building real data analysis projects, starting with the Titanic dataset and practicing SQL, Pandas, and EDA techniques. 
 - 🌱 I’m currently learning I'm currently learning SQL, Python (Pandas, NumPy), data visualization (Seaborn, Matplotlib), EDA techniques, and Git for version control. 
 - 👯 I’m looking to collaborate on I want to collaborate on open-source datasets analysis projects. 
 - 🤔 I’m looking for help with Improving my skills in Pandas, Matplotlib, and data visualization 
