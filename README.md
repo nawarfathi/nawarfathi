@@ -14,10 +14,6 @@ Skills: Python/Pandas/Numpy/SQL/powerBI/Seaborn/Matplotlib/EDA/Dataprocessing
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nawarfathi)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nawarfathi&show_icons=true)  
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
